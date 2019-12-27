@@ -1,0 +1,8 @@
+.vscode/*
+.ipynb_checkpoints/*
+__pycache__/*
+reference/*
+papers/*
+*.ipynb
+Datasets/SVHN/*.mat
+Datasets/USPS/*.bz2
